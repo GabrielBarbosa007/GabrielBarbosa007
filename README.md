@@ -11,6 +11,7 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="90" >
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="html" width="70"  >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="html" width="109" >
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   
   
   
