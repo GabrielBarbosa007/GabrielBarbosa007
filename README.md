@@ -17,7 +17,7 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
   
   
 
-
+Illustration by <a href="https://icons8.com/illustrations/author/5eb2a7bd01d0360019f124e7">Olha Khomich</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
 
    
