@@ -11,8 +11,8 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
- <img style="" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" width="30" height="35">
- <img src="https://image.pngaaa.com/388/3920388-middle.png" alt="Package" width="48" height="48">
+ <img style="" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" width="48" height="48">
+ <img src="https://image.pngaaa.com/388/3920388-middle.png" alt="Package" width="20" height=" 25">
  <img src="https://img.icons8.com/officel/40/000000/react.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
