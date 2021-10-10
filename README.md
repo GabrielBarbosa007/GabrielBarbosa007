@@ -11,11 +11,11 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img src="https://i.stack.imgur.com/color/48/000000/dMXbE.png"/>
+ <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" width="608" height="48">
  <img src="https://img.icons8.com/officel/40/000000/react.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-  https://i.stack.imgur.com/dMXbE.png
+ 
   
 
 
