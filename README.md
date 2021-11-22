@@ -2,7 +2,7 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
 
 <b>Atualmente estou estudando engenharia de software e estou mergulhando a fundo em todo esse ecossistema da tecnologia . Adoro compartilhar conhecimento e discutir sobre tecnologias, bora tomar um café?</b>
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div>
   
