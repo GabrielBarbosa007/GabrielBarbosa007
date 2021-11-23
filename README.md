@@ -12,6 +12,7 @@ Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/office/40/000000/react.png"/>
 
  
   
