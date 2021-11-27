@@ -1,6 +1,6 @@
 Olá! Eu sou o  <b> Gabriel Barbosa! 🔥💻</b>
 
-Com um pensamento focado em uma carreira solida, e estudando todos os dias, busco melhorar minhas skills e softskills que são primordiais para um ambiente de trabalho. Busco até o momento com projetos pessoais e cursos com mentorias, O que eu acredito que seja um caminho para minha inserção no mercado de trabalho como Junior em desenvolvimento. Acredito que quando esse momento chegar já terei uma base solida de tudo que amo fazer e aplicar no meu dia a dia!
+Com um pensamento focado em uma carreira solida, e estudando todos os dias, busco melhorar minhas skills e softskills que são primordiais para um ambiente de trabalho. Busco até o momento com projetos pessoais e cursos com mentorias. O que eu acredito que seja um caminho para minha inserção no mercado de trabalho como Junior em desenvolvimento. Acredito que quando esse momento chegar já terei uma base solida de tudo que amo fazer e aplicar no meu dia a dia!
 
 <b>Atualmente estou estudando engenharia de software e estou mergulhando a fundo em todo esse ecossistema da tecnologia . Adoro compartilhar conhecimento e discutir sobre tecnologias, bora tomar um café?</b>
 
