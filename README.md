@@ -8,7 +8,7 @@ Com um pensamento focado em uma carreira solida, e estudando todos os dias, busc
 
 <div>
   
-<b>Tecnologias que tenho experiência </b>
+<b> Principais Hard Skills: </b>
 
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
