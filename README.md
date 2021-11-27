@@ -13,10 +13,11 @@ Com um pensamento focado em uma carreira solida, e estudando todos os dias, busc
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  
+  <b> Estudando no momento: </b>
+
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/office/40/000000/react.png"/>
-
- 
   
 
 
