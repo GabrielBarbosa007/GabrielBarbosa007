@@ -13,7 +13,7 @@ Com um pensamento focado em uma carreira solida, e estudando todos os dias, busc
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
- ![image](https://github.com/GabrielBarbosa007/GabrielBarbosa007/assets/86196288/8f1261f4-8658-4261-aab1-ba95c1afc5d1)
+
 
  
 
