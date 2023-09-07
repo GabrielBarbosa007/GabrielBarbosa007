@@ -12,7 +12,6 @@ Com um pensamento focado em uma carreira solida, e estudando todos os dias, busc
 
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABYklEQVR4nGNgIAM4rvii77jkyyGnpV/PYOIvR1yWfTUhx1wwGDUcK3AcDXNsYDRY6B8szsu+GDov/YrVcOelXw+B5OEOWfxD3WnJ162OS7/uQ8dOS7/udFrxxYgE139Bcbnz8h9qTku+7MXhy+OOS77ZEe0LdJe7L/6h7rj0yz6shi/5esxl6TcbgkGF8Amqyx0XfdF3XPrlkeOSL5tIdjlWnyCH+aIv+k5Lvr52Wvr1v+PSL1+dln7dQrLLcfpoEcJwGAZZAvEJiS5HB6Gr/rM5Lf3yANlwGHZY9PGtetraXAZKgcOSb9ZOS79+QjF84YefUk4ld0Vsa36Ius3woKolDgve/xQyS37ApxvzX9S+6b+A2+xv3G4LHKliicOiD29E7PLvchrm/edznPif130hGPO4LfxKFUvE/Ca58LjP+wwzGBnzuC/4zOO6gPwIhwEe1/nWPG4LP2G1hFo+IcUSAEeNSCXP/zq1AAAAAElFTkSuQmCC">
  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
 
  
